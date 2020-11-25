@@ -151,7 +151,7 @@ public class Main {
                 ImageFunction.random(selfQQ,fromGroup,type);
             }
             //134	上传群文件
-        }catch (Exception e){
+        }catch (Exception ignored){
 
         }
 	}
